@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Whinky's Space"
+title: "Winky's Space"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
