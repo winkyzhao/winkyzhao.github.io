@@ -1,0 +1,14 @@
+---
+title: "《DEX 稳定币挖矿真的无损吗？》"
+collection: publications
+permalink: /publication/dex20
+excerpt: ''
+date: 2020-10-01
+venue: 'Huobi Research'
+paperurl: 'http://winkyzhao.github.io/files/paper1.pdf'
+citation: '胥彤，赵文琦，袁煜明. &quot;《DEX 稳定币挖矿真的无损吗？》.&quot; <i>Huobi Research</i>.'
+---
+
+[Download paper here](http://winkyzhao.github.io/files/paper1.pdf)
+
+Recommended citation: 胥彤，赵文琦，袁煜明. "《DEX 稳定币挖矿真的无损吗？》". <i>Huobi Research</i>.
