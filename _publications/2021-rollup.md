@@ -1,7 +1,7 @@
 ---
 title: "《未来可期：详解 Rollup 技术、应用与数据》"
 collection: publications
-permalink: /publication/rollup21
+permalink: /publication/2021-rollup
 excerpt: ''
 date: 2021-10-01
 venue: 'Huobi Research'
