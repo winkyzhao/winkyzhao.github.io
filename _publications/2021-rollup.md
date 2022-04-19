@@ -11,4 +11,4 @@ citation: '赵文琦，陈晗，袁煜明. &quot;《未来可期：详解 Rollup
 
 [Download paper here](http://winkyzhao.github.io/files/paper1.pdf)
 
-Recommended citation: 赵文琦，陈晗，袁煜明. "《未来可期：详解 Rollup 技术、应用与数据》". <i>Huobi Research</i>.
+Recommended citation: 赵文琦，陈晗，袁煜明.《未来可期：详解 Rollup 技术、应用与数据》. <i>Huobi Research</i>.
