@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in software engineering, Beijing University of Posts and Telecommunications, Beijing, China, 2014
+* M.S. in software engineering, Tsinghua University, Beijing, China, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.7 - NOW: Bybit
+  * DeFi Researcher
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020.4 - 2021.7: Huobi Research
+  * Senior Researcher
+
+* 2017.7 - 2019.9: Ant Financial
+  * Senior Software Engineer
   
+<!---
 Skills
 ======
 * Skill 1
@@ -35,6 +34,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+--->
 
 Publications
 ======
@@ -47,7 +47,8 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
