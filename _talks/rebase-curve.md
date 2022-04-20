@@ -8,4 +8,4 @@ date: 2021-03-01
 location: "Virtual"
 ---
 
-Link: https://www.bilibili.com/video/BV1yh41127kS?share_source=copy_web
+[Talk Video](https://www.bilibili.com/video/BV1yh41127kS?share_source=copy_web)
