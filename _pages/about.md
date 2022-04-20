@@ -19,6 +19,8 @@ Research Interests
 - Layer2 solutions, e.g., rollup.
 - Interoperability, e.g., cross chain protocols.
 
+<!---
 Personal
 ------
 I love reading. My book recomendations are XYZ.
+--->
