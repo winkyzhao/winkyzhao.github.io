@@ -2,7 +2,7 @@
 title: "DEX技术发展带来的技术革新"
 collection: talks
 type: "Talk"
-permalink: /talks/ccf-defi
+permalink: /talks/2020-ccf-defi
 venue: "CCF TF42"
 date: 2021-03-01
 location: "Beijing, China"
