@@ -8,4 +8,4 @@ date: 2021-10-01
 location: "Shanghai, China"
 ---
 
-[Talk Slides](https://http://winkyzhao.github.io/files/2021-difficulty.pdf)
+[Talk Slides](https://winkyzhao.github.io/files/2021-difficulty.pdf)
