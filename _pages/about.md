@@ -15,9 +15,9 @@ Research Interests
 - Design of DeFi protocols, e.g., lending, DEX etc.
 - Design and analysis of tokenomics, e.g., DeFi, GameFi, DAO etc.
 - Maximal Extractable Value, or MEV in short
-- Technologies related to Bitcoin
 - Layer2 solutions, e.g., rollup.
-- Interoperability, e.g., cross chain protocols.
+- Interoperability, e.g., cross-chain protocols.
+- Technologies related to Bitcoin
 
 <!---
 Personal
